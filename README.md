@@ -16,8 +16,6 @@ l' input è diverso dai valori degli array la console stampa "email non verifica
 
 # Esercizio N2
 
-<h4>metodo 1</h4>
-
 1) creiamo una variabile dove salviamo il valore numerico dell' input utente;
 2) generare con una variabile "avversario" un numero randomico;
 3) confronta le due variabili e generare le condizioni:
